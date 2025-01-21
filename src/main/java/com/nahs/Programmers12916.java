@@ -1,8 +1,4 @@
-package com.ssmi;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+package com.nahs;
 
 /**
  * fileName     : Programmers12916
