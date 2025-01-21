@@ -5,4 +5,4 @@
 4. [백준 11945] 뜨거운 붕어빵 (https://www.acmicpc.net/problem/11945)
 5. [백준 10798] 세로읽기 (https://www.acmicpc.net/problem/10798)
 6. [백준 27160] 할리갈리 (https://www.acmicpc.net/problem/27160)
-7. [백준 15829] Hasing (https://www.acmicpc.net/problem/15829)
+7. [백준 15829] Hashing (https://www.acmicpc.net/problem/15829)
