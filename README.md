@@ -6,3 +6,4 @@
 5. [백준 10798] 세로읽기 (https://www.acmicpc.net/problem/10798)
 6. [백준 27160] 할리갈리 (https://www.acmicpc.net/problem/27160)
 7. [백준 15829] Hashing (https://www.acmicpc.net/problem/15829)
+8. [프로그래머스 42577] 전화번호 목록 (https://school.programmers.co.kr/learn/courses/30/lessons/42577)
