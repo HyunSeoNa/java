@@ -14,9 +14,18 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        /* Programmers 12916 */
+        /* Programmers 12916 *//*
         Programmers12916 q1 = new Programmers12916();
         String str = br.readLine();
-        System.out.println(q1.solution(str));
+        System.out.println(q1.solution(str));*/
+
+        /* Programmers 42577 */
+        Programmers42577 p42577 = new Programmers42577();
+        String[] str = {"119", "97674223", "1195524421"};
+        //String[] str = {"123","456","789"};               // false
+        //String[] str = {"12","123","1235","567","88"};    // true
+        //String[] str = {"123", "2345", "23467"};          // false
+        System.out.println(p42577.solution(str));
+
     }
 }
