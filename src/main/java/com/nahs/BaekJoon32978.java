@@ -20,7 +20,6 @@ public class BaekJoon32978 {
 
         String line = br.readLine();
         String[] selection = line.split(" ");
-        Arrays.sort(selection);
 
         line = br.readLine();
         String[] used = line.split(" ");
