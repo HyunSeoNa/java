@@ -29,5 +29,8 @@
     * 문제 [https://www.acmicpc.net/submit/31562/89050627]
     * 풀이 [https://blog.naver.com/healim0216/223735791964]
 11. [백준 32953] 회상 
-    * 문제  [https://www.acmicpc.net/problem/32953]
+    * 문제 [https://www.acmicpc.net/problem/32953]
     * 풀이 [https://blog.naver.com/healim0216/223736841007]
+12. [백준 2490]
+    * 문제 [https://blog.naver.com/healim0216/223739191307]
+    * 풀이 [https://blog.naver.com/healim0216/223739191307]
