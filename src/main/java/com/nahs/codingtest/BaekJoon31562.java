@@ -1,4 +1,4 @@
-package com.nahs;
+package com.nahs.codingtest;
 
 import java.io.BufferedReader;
 import java.io.IOException;

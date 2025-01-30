@@ -1,4 +1,4 @@
-package com.nahs;
+package com.nahs.codingtest;
 
 /**
  * fileName     : Programmers12916
