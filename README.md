@@ -31,6 +31,15 @@
 11. [백준 32953] 회상 
     * 문제 [https://www.acmicpc.net/problem/32953]
     * 풀이 [https://blog.naver.com/healim0216/223736841007]
-12. [백준 2490]
-    * 문제 [https://blog.naver.com/healim0216/223739191307]
+12. [백준 2490] 윷놀이
+    * 문제 [https://www.acmicpc.net/problem/2490]
     * 풀이 [https://blog.naver.com/healim0216/223739191307]
+13. [백준 10828] 스택
+    * 문제 [https://www.acmicpc.net/problem/10828]
+    * 풀이 [https://blog.naver.com/healim0216/223747006673]
+15. [백준 17608] 막대기
+    * 문제 [https://www.acmicpc.net/problem/17608]
+    * 풀이 [https://blog.naver.com/healim0216/223747885807]
+16. [백준 10845] 큐
+    * 문제 [https://www.acmicpc.net/problem/10845]
+    * 풀이 []
