@@ -1,8 +1,6 @@
 package com.nahs.codingtest;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 /**
  * fileName     : main.java
@@ -28,8 +26,14 @@ public class Main {
         System.out.println(p42577.solution(str));*/
 
 
-        /* Programmers 42626 더 맵게 */
+        /* Programmers 42626 더 맵게 - Array *//*
         Programmers42626 p42626 = new Programmers42626();
+        //int result = p42626.solution(new int[]{1, 2, 3, 9, 10, 12}, 7);
+        int result = p42626.solution(new int[]{1, 2, 3}, 100);
+        System.out.println("426426 result : " + result);*/
+
+        /* Programmers 42626 더 맵게 - PriorityQueue */
+        Programmers42626_PriorityQueue p42626 = new Programmers42626_PriorityQueue();
         //int result = p42626.solution(new int[]{1, 2, 3, 9, 10, 12}, 7);
         int result = p42626.solution(new int[]{1, 2, 3}, 100);
         System.out.println("426426 result : " + result);
