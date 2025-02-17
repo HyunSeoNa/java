@@ -1,6 +1,7 @@
 package com.nahs.codingtest;
 
 import java.io.IOException;
+import java.util.Arrays;
 
 /**
  * fileName     : main.java
@@ -32,10 +33,14 @@ public class Main {
         int result = p42626.solution(new int[]{1, 2, 3}, 100);
         System.out.println("426426 result : " + result);*/
 
-        /* Programmers 42626 더 맵게 - PriorityQueue */
+        /* Programmers 42626 더 맵게 - PriorityQueue *//*
         Programmers42626_PriorityQueue p42626 = new Programmers42626_PriorityQueue();
         //int result = p42626.solution(new int[]{1, 2, 3, 9, 10, 12}, 7);
         int result = p42626.solution(new int[]{1, 2, 3}, 100);
-        System.out.println("426426 result : " + result);
+        System.out.println("426426 result : " + result);*/
+
+        LeetCode506 leetCode506 = new LeetCode506();
+        String[] result = leetCode506.findRelativeRanks(new int[]{1, 2, 3, 4, 5});
+        Arrays.stream(result).forEach(System.out::println);
     }
 }
